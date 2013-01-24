@@ -50,4 +50,5 @@ public class Launcher extends ticketView {
 	//La centralView est à l'écoute du ticketOffice
 	//La classe enumState reprend les états possibles pour les tickets et offices.
 
+	//rendu le  mardi 15 janvier 2013
 }
